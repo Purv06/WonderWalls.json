@@ -1,47 +1,43 @@
 [
 	    {
 	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/10_20220911_004848_0009.png",
-	      "name": "Abstract 1",
-	      "collections": "Abstract",
-	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/10.png"
+	      "url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/1673514685067.jpg",
+	      "name": "Amoled 1",
+	      "collections": "Amoled"
 	    },
 	    {
 	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/1_20220518_015725_0000.png",
-	      "name": "Abstract 2",
-	      "collections": "Abstract",
-	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/1-3.png"
+	      "url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/1673515121465.jpg",
+	      "name": "Amoled 2",
+	      "collections": "Amoled
 	    },
 	    {
 	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/1_20220709_003708_0000.png",
+	      "url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/1_20220709_003708_0000.png",
 	      "name": "Abstract 3",
-	      "collections": "Abstract",
-	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/1-2.png"
+	      "collections": "Abstract"
 	    },
 	    {
 	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/1_20220907_004802_0000.png",
+	      "url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/1_20220907_004802_0000.png",
 	      "name": "Abstract 4",
-	      "collections": "Abstract",
-	      "thumbnail": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/1-1.png"
+	      "collections": "Abstract"
 	    },
 	    {
 	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/20_20220911_004848_0019.png",
+	      "url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Abstract/20_20220911_004848_0019.png",
 	      "name": "Abstract 5",
 	      "collections": "Abstract"
 	    },
 	    {
 	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/21_20220708_221415_0020.png",
+	      "url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Abstract/21_20220708_221415_0020.png",
 	      "name": "Abstract 6",
 	      "collections": "Abstract"
 	    },
 	    {
 	      "author": "Raj Arya",
-	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/21_20220709_003708_0020.png",
+	      "url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Abstract/21_20220709_003708_0020.png",
 	      "name": "Abstract 7",
 	      "collections": "Abstract"
 	    },
@@ -162,7 +158,7 @@
      
      
      
-     {
+            {
 	      "author": "Raj Arya",
 	      "url": "https://raw.githubusercontent.com/Purv06/WallDesk.json/main/Abstract/10_20220911_004848_0009.png",
 	      "name": "Abstract 1",
