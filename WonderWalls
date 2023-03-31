@@ -18,9 +18,9 @@
 		"name": "Minimal 35",
 		"collections": "Minimal"
 	},
-	{
+        {
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121843_454.jpg",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121844_195.jpg",
 		"name": "Minimal 36",
 		"collections": "Minimal"
 	},
@@ -80,7 +80,7 @@
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121843_825.jpg",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121844_409.jpg",
 		"name": "Minimal 46",
 		"collections": "Minimal"
 	},
@@ -138,17 +138,21 @@
 		"name": "Minimal 55",
 		"collections": "Minimal"
 	},
+	
+	
+	
+	
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121844_195.jpg",
-		"name": "Minimal 56",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121843_454.jpg",
+		"name": "Creatures 15",
+		"collections": "Creature"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121844_409.jpg",
-		"name": "Minimal 57",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121843_825.jpg",
+		"name": "Creature 16",
+		"collections": "Creature"
 	},
 		
 	
