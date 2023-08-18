@@ -1,0 +1,46 @@
+[
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/Minimal.png",
+		"collections": "Minimal"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/Smart.png",
+		"collections": "Smart Animals"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticBirds/Birds.png",
+		"collections": "Realistic Birds"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/Animals.png",
+		"collections": "Realistic Aminals"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Space/Space.png",
+		"collections": "Space"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/Amoled.png",
+		"collections": "Amoled"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Neon/Neon.png",
+		"collections": "Neon"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Night/Night.png",
+		"collections": "Night"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Warrior/Warrior.png",
+		"collections": "Warrior"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Aqua/Aqua.png",
+		"collections": "Aqua"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Creatures/Creature.png",
+		"collections": "Creature"
+	}
+]
