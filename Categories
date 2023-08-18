@@ -13,7 +13,7 @@
 	},
 	{
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/Animals.png",
-		"collections": "Realistic Aminals"
+		"collections": "Realistic Animals"
 	},
 	{
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Space/Space.png",
@@ -41,6 +41,6 @@
 	},
 	{
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Creatures/Creature.png",
-		"collections": "Creature"
+		"collections": "Creatures"
 	}
 ]
