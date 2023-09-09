@@ -1,46 +1,46 @@
 [
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/Minimal.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Minimal.jpeg",
 		"collections": "Minimal"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/Smart.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Smart.jpg",
 		"collections": "Smart Animals"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticBirds/Birds.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Birds.jpg",
 		"collections": "Realistic Birds"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/Animals.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Animals2.jpg",
 		"collections": "Realistic Animals"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Space/Space.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Space2.jpg",
 		"collections": "Space"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/Amoled.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Amoled.jpg",
 		"collections": "Amoled"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Neon/Neon.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Neon.jpg",
 		"collections": "Neon"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Night/Night.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Night.jpg",
 		"collections": "Night"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Warrior/Warrior.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Warrior2.jpg",
 		"collections": "Warrior"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Aqua/Aqua.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Aqua.jpg",
 		"collections": "Aqua"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Creatures/Creature.png",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Creature.jpg",
 		"collections": "Creatures"
 	}
 ]
