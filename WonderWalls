@@ -355,13 +355,13 @@
 		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121843_454.jpg",
 		"name": "Creatures 15",
-		"collections": "Creature"
+		"collections": "Creatures"
 	},
 	{
 		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121843_825.jpg",
 		"name": "Creature 16",
-		"collections": "Creature"
+		"collections": "Creatures"
 	},
 		
 	
@@ -573,7 +573,7 @@
 		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230217_221021_411.jpg",
 		"name": "Minimal 30",
-		"collections": "SmartAnimals"
+		"collections": "Minimal"
 	},
 	{
 		"author": "Purvesh Shinde",
