@@ -1,6 +1,34 @@
 [
 	{
 		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Aqua/IMG_20231003_133106_624.jpg",
+		"name": "Aqua 13",
+		"collections": "Aqua"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Aqua/IMG_20231003_133106_835.jpg",
+		"name": "Aqua 14",
+		"collections": "Aqua"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Aqua/IMG_20231003_133107_017.jpg",
+		"name": "Aqua 15",
+		"collections": "Aqua"
+	},
+
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/IMG_20231001_210823_822.jpg",
 		"name": "Animals 20",
 		"collections": "Animals"
