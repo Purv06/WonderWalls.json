@@ -1,6 +1,34 @@
 [
 	{
 		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20231009_233835_953.jpg",
+		"name": "Amoled 30",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20231009_233836_275.jpg",
+		"name": "Amoled 31",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20231009_233835_884.jpg",
+		"name": "Amoled 32",
+		"collections": "Amoled"
+	},
+
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/1696772235112.jpg",
 		"name": "Animals 23",
 		"collections": "Animals"
