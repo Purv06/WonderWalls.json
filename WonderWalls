@@ -1,6 +1,34 @@
 [
 	{
 		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Night/IMG_20231012_230137_796.jpg",
+		"name": "Night 19",
+		"collections": "Night"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Night/IMG_20231012_230138_047.jpg",
+		"name": "Night 20",
+		"collections": "Night"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Night/IMG_20231012_230138_529.jpg",
+		"name": "Night 21",
+		"collections": "Night"
+	},
+
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticBirds/IMG_20231011_222726_952.jpg",
 		"name": "Birds 22",
 		"collections": "Birds"
