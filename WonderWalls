@@ -1,6 +1,33 @@
 [
 	{
 		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Imagine/IMG_20231016_220100_593.jpg",
+		"name": "Imagine 4",
+		"collections": "Imagine"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Imagine/1697474054602.jpg",
+		"name": "Imagine 5",
+		"collections": "Imagine"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Imagine/IMG_20231016_220100_699.jpg",
+		"name": "Imagine 6",
+		"collections": "Imagine"
+	},
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20231015_235240_791.jpg",
 		"name": "Minimal 88",
 		"collections": "Minimal"
