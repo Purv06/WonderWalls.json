@@ -1,6 +1,33 @@
 [
 	{
 		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticBirds/1697735021894.jpg",
+		"name": "Birds 25",
+		"collections": "Birds"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticBirds/1697735086052.jpg",
+		"name": "Birds 26",
+		"collections": "Birds"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticBirds/1697735181703.jpg",
+		"name": "Birds 27",
+		"collections": "Birds"
+	},
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/1697649263290.jpg",
 		"name": "Animals 29",
 		"collections": "Animals"
