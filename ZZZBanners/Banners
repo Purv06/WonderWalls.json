@@ -1,6 +1,10 @@
 [
 	{
-	"link": "https://play.google.com/store/apps/details?id=wigebox.wallblitz.wallpapers",
+	"link": "https://play.google.com/store/apps/details?id=minimal.dd.walls",
 	"banner": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/ZZZBanners/Coming%20Soon.jpg"
+	},
+	{
+	"link": "https://play.google.com/store/apps/details?id=wallfab.dd.walls",
+	"banner": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/ZZZBanners/WallFAB%20Coming%20Soon.jpg"
 	}
 ]
