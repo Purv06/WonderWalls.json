@@ -28,6 +28,10 @@
 		"collections": "Neon"
 	},
 	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Imagine.jpg",
+		"collections": "Imagine"
+	},
+	{
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Night.jpg",
 		"collections": "Night"
 	},
