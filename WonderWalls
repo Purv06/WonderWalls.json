@@ -1,6 +1,52 @@
 [
 	{
 		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/IMG_20240221_213716_451.jpg",
+		"name": "Animals 41",
+		"collections": "Animals"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/IMG_20240221_213716_888.jpg",
+		"name": "Animals 42",
+		"collections": "Animals"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/IMG_20240221_213716_623.jpg",
+		"name": "Animals 43",
+		"collections": "Animals"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/IMG_20240221_213716_325.jpg",
+		"name": "Animals 44",
+		"collections": "Animals"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/IMG_20240221_213716_713.jpg",
+		"name": "Animals 45",
+		"collections": "Animals"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/IMG_20240221_213717_193.jpg",
+		"name": "Animals 46",
+		"collections": "Animals"
+	},
+
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/RealisticAnimals/IMG_20240105_205103_088.jpg",
 		"name": "Animals 35",
 		"collections": "Animals"
@@ -1136,7 +1182,7 @@
 		"name": "Minimal 40",
 		"collections": "Minimal"
 	},
-		{
+	{
 		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230330_121843_624.jpg",
 		"name": "Minimal 41",
